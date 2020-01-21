@@ -3,4 +3,8 @@ I am Lara
 
 Sami was here
 
+<<<<<<< HEAD
 Welcome Sami
+=======
+You was hacked by Razane
+>>>>>>> 018d51aeca36a0cced40782620dd993c515ef381
