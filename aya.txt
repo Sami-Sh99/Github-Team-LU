@@ -1,7 +1,14 @@
+I am Aya
 I am Lara 
 
 Sami was here
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Welcome Sami
+=======
+You was hacked by Razane
+
 You were hacked by Razane
 
-Aya is d3efeee
+Sami and Razan d3af ktir edem Aya
